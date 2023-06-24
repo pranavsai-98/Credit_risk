@@ -1,0 +1,25 @@
+what features impact the most and makes a customer default on a payment
+can we cluster defalted customers vs Non defalted customers and extract any insights from impact
+
+*use emp_title to target encode with the default rate as employee title should have an impact on the default rate* 
+
+
+
+
+
+
+
+
+
+explain in the front end why the loan/credit has been declined
+
+
+assumptions:
+since we do not posses the credit report of the customer, which plays one of the most important role in the credit decision, I will use some of the features that are usually available in credit report, and which are simple that a customer would be able to understand and input these values.
+
+such as:
+1. number of credit inquiries in last 6 months
+2. number of open accounts
+3. number of months since last delinquency
+4. number of derogatory public records
+5. 
